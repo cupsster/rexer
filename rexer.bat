@@ -1,5 +1,11 @@
 @echo OFF
 cls
+echo "                                     ";
+echo " _______  ____ ___  ___ ___________  ";
+echo " \_  __ \/ __ \\  \/  // __ \_  __ \ ";
+echo "  |  | \|  ___/ >    <\  ___/|  | \/ ";
+echo "  |__|   \___  >__/\_ \\___  >__|    ";
+echo "             \/      \/    \/        ";
 echo =============================================================================
 echo   REXPaint batch converter v0.1 by Peter Matejovsky - cupsster[at]gmail.com
 echo To use this script, place it next to REXPaint executable and files to convert
